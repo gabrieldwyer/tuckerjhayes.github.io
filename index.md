@@ -4,6 +4,6 @@ hello people
 i like tacos
 they are yummy
 
-i like *sith* i am one my self![some random  work](/images/sithlord.jp)
+i like *sith* i am one my self![some random  work](/images/sithlord.jpg)
 
-sometimes your changes will take a few seconds to get here, be patient!
+
