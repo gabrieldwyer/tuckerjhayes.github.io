@@ -4,7 +4,7 @@ hello people
 i like tacos
 they are yummy
 
-you can put images here too! ![some random  work](/images/sithlord.jpeg) or put a link to somewhere else [like my website](https://gabrieldwyer.com)
+you can put images here too! ![some random  work](/images/sithlord.jpg) or put a link to somewhere else [like my website](https://gabrieldwyer.com)
 
 it looks a little bit plain at the moment, but I know that you'll have a lot of ideas of what to add to it.
 it also won't be as easy or as immediate as your other programming stuff, but sometimes good things are hard!
