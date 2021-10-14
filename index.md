@@ -1,6 +1,6 @@
 
 hello tucker
-
+my name bob
 this is where you can type things that make up your very own personal website.
 
 there's lots that you can do.
