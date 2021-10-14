@@ -8,3 +8,5 @@ there's lots that you can do.
 it looks a little bit plain at the moment, but I know that you'll have a lot of ideas of what to add to it.
 
 it also won't be as easy or as immediate as your other programming stuff, but sometimes good things are hard!
+
+sometimes your changes will take a few seconds to get here, be patient!
