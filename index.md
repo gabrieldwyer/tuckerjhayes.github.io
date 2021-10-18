@@ -1,3 +1,9 @@
+---
+title: homepage
+layout: template
+filename: index.md
+---
+
 hello people
 
 **my name bob!!!!!!!!!**
