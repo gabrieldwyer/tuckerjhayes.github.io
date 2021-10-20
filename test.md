@@ -10,4 +10,4 @@ this might be a good place to try to come up with some themes, or maybe move som
 
 <h1>CSS Animation Copy</h1>
 
-<div class='changes-color'></div>
+<div class='changes-color'>changes-color</div>
