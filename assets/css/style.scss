@@ -1,1 +1,13 @@
 
+.changes-color{
+    width: 200px;
+    height: 200px;
+    background-color: blue;
+    animation-name: changes-color;
+    animation-duration: 10s;
+}
+
+@keyframes changes-color {
+    from {background-color: red;}
+    to {background-color: yellow;}
+}
