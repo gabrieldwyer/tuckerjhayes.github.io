@@ -1,1 +1,8 @@
-theme: jekyll-theme-hacker
+# a sentence with a hash (#) at the front will not be read by .yml files
+# this kind of line is common in programming
+# they are called comments
+# it is a way for people to put explainations in their code so they (and other people) know what it does
+
+# I've used a comment here in case we want to restore the theme!
+
+# theme: jekyll-theme-hacker
